@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f6bfa2-4573-4768-9275-42c43c7835ab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="90d3bae9-078e-4ebb-85e7-2c224ed52b5b" />
+        <option name="url" value="https://github.com/fariborzfallahzadeh/Python_Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B9pmBOXQNpWQ0Q1WMBM46CbG5P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\DevNet\Routing" />
+      <recent name="E:\Project\DevNet\Switching" />
+      <recent name="E:\Project\Python\Kivy\PKG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\DevNet\Routing" />
+      <recent name="E:\Project\Python\Kivy\Package" />
+      <recent name="E:\Project\Python\Kivy\kivy_venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SSH(range)">
+    <configuration name="1.Create-VLAN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevNet/Switching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevNet/Switching/1.Create-VLAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.Change-Hostname" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevNet/Switching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevNet/Switching/4.Change-Hostname.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware/6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SSH(range)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevNet/Routing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevNet/Routing/SSH(range).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TELNET(range)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevNet/Switching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevNet/Switching/TELNET(range).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SSH(range)" />
+        <item itemvalue="Python.TELNET(range)" />
+        <item itemvalue="Python.4.Change-Hostname" />
+        <item itemvalue="Python.1.Create-VLAN" />
+        <item itemvalue="Python.6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f6bfa2-4573-4768-9275-42c43c7835ab" name="Changes" comment="" />
+      <created>1656328312885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656328312885</updated>
+      <workItem from="1656328314025" duration="589000" />
+      <workItem from="1656507112376" duration="410000" />
+      <workItem from="1656764575453" duration="6254000" />
+      <workItem from="1656938593203" duration="4767000" />
+      <workItem from="1657081272897" duration="2137000" />
+      <workItem from="1657346184807" duration="128000" />
+      <workItem from="1657346348489" duration="398000" />
+      <workItem from="1657346774955" duration="4616000" />
+      <workItem from="1657541657605" duration="8163000" />
+      <workItem from="1657975837027" duration="4023000" />
+      <workItem from="1658320330602" duration="4633000" />
+      <workItem from="1658416319951" duration="2806000" />
+      <workItem from="1658550224769" duration="26783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Python/pythonProject" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Python/" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$Find_IP.coverage" NAME="Find_IP Coverage Results" MODIFIED="1656770732608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$10_Abstraction_Class.coverage" NAME="10.Abstraction_Class Coverage Results" MODIFIED="1656767210357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/OOP" />
+    <SUITE FILE_PATH="coverage/Project$1_Create_VLAN.coverage" NAME="1.Create-VLAN Coverage Results" MODIFIED="1658755941045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Switching" />
+    <SUITE FILE_PATH="coverage/Project$1_Label.coverage" NAME="1.Label Coverage Results" MODIFIED="1657346507005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy" />
+    <SUITE FILE_PATH="coverage/Project$3_Checkbox.coverage" NAME="3.Checkbox Coverage Results" MODIFIED="1657545137335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy" />
+    <SUITE FILE_PATH="coverage/Project$Delete_File.coverage" NAME="Delete_File Coverage Results" MODIFIED="1658323399734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$List_Box.coverage" NAME="List_Box Coverage Results" MODIFIED="1656939286750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$3.coverage" NAME="3 Coverage Results" MODIFIED="1658582353575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+    <SUITE FILE_PATH="coverage/Project$1_Label__1_.coverage" NAME="1.Label (1) Coverage Results" MODIFIED="1657346620256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy/kivy_venv" />
+    <SUITE FILE_PATH="coverage/Project$1_Change_Hostname.coverage" NAME="1.Change-Hostname Coverage Results" MODIFIED="1658552461847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$Create_Radio_Button.coverage" NAME="Create_Radio_Button Coverage Results" MODIFIED="1656938654109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$6.coverage" NAME="6 Coverage Results" MODIFIED="1658584608312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+    <SUITE FILE_PATH="coverage/Project$TELNET_range_.coverage" NAME="TELNET(range) Coverage Results" MODIFIED="1658756356868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Switching" />
+    <SUITE FILE_PATH="coverage/Project$2.coverage" NAME="2 Coverage Results" MODIFIED="1658581780372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+    <SUITE FILE_PATH="coverage/Project$9_Encapsulation.coverage" NAME="9.Encapsulation Coverage Results" MODIFIED="1656766272139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/OOP" />
+    <SUITE FILE_PATH="coverage/Project$4_Static_Route.coverage" NAME="4.Static-Route Coverage Results" MODIFIED="1658553477347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$Socket_Chat_Server.coverage" NAME="Socket Chat Server Coverage Results" MODIFIED="1657715220290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Socket/chat_server" />
+    <SUITE FILE_PATH="coverage/Project$Create_MSGBox.coverage" NAME="Create_MSGBox Coverage Results" MODIFIED="1656942095796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$Scroll_Box.coverage" NAME="Scroll_Box Coverage Results" MODIFIED="1656940007625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$Shutdown_Restart.coverage" NAME="Shutdown_Restart Coverage Results" MODIFIED="1656769731577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$1_Sample.coverage" NAME="1.Sample Coverage Results" MODIFIED="1658417990054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$1_Class_Person.coverage" NAME="1_Class_Person Coverage Results" MODIFIED="1656507504882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/OOP" />
+    <SUITE FILE_PATH="coverage/Project$File_Browser.coverage" NAME="File_Browser Coverage Results" MODIFIED="1656943194834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$Form_Photo_Text.coverage" NAME="Form_Photo_Text Coverage Results" MODIFIED="1656941787015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$2_Interface_VLAN_Assignment.coverage" NAME="2.Interface-VLAN-Assignment Coverage Results" MODIFIED="1658554236753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Switching" />
+    <SUITE FILE_PATH="coverage/Project$Create_ComboBox.coverage" NAME="Create_ComboBox Coverage Results" MODIFIED="1656764707034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$Hacker_Voice.coverage" NAME="Hacker_Voice Coverage Results" MODIFIED="1658325061015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$Create_Lable.coverage" NAME="Create_Lable Coverage Results" MODIFIED="1656770277733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$Spin_Scroll_Box.coverage" NAME="Spin_Scroll_Box Coverage Results" MODIFIED="1656940696437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$11_Magic_Method.coverage" NAME="11.Magic_Method Coverage Results" MODIFIED="1656768002170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/OOP" />
+    <SUITE FILE_PATH="coverage/Project$Socket_Chat_Client.coverage" NAME="Socket Chat Client Coverage Results" MODIFIED="1657715235837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Socket/chat_server" />
+    <SUITE FILE_PATH="coverage/Project$Create_Check_Button.coverage" NAME="Create_Check_Button Coverage Results" MODIFIED="1656769384701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$4_EIGRP_Config.coverage" NAME="4.EIGRP-Config Coverage Results" MODIFIED="1658553285503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$Enable_CDROM.coverage" NAME="Enable_CDROM Coverage Results" MODIFIED="1657977626176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$8_Private_Class.coverage" NAME="8.Private_Class Coverage Results" MODIFIED="1656765651420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/OOP" />
+    <SUITE FILE_PATH="coverage/Project$SSH_range_.coverage" NAME="SSH(range) Coverage Results" MODIFIED="1658758352429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Routing" />
+    <SUITE FILE_PATH="coverage/Project$Find_Drive.coverage" NAME="Find_Drive Coverage Results" MODIFIED="1658322771812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$Disable_USB.coverage" NAME="Disable_USB Coverage Results" MODIFIED="1657976880801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$Create_Form2.coverage" NAME="Create_Form2 Coverage Results" MODIFIED="1656942612330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$3_Interface_Range_VLAN_Assignment.coverage" NAME="3.Interface-Range-VLAN-Assignment Coverage Results" MODIFIED="1658555851424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Switching" />
+    <SUITE FILE_PATH="coverage/Project$2_Textinput.coverage" NAME="2.Textinput Coverage Results" MODIFIED="1657544743182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy" />
+    <SUITE FILE_PATH="coverage/Project$Create_Button.coverage" NAME="Create_Button Coverage Results" MODIFIED="1656768980795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$4.coverage" NAME="4 Coverage Results" MODIFIED="1658582617421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+    <SUITE FILE_PATH="coverage/Project$Basic_Keylogger.coverage" NAME="Basic-Keylogger Coverage Results" MODIFIED="1658320999161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$2_SNMP_Config.coverage" NAME="2.SNMP-Config Coverage Results" MODIFIED="1658552636253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$3_Create_Username_and_Password.coverage" NAME="3.Create-Username and Password Coverage Results" MODIFIED="1658552863581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet" />
+    <SUITE FILE_PATH="coverage/Project$1.coverage" NAME="1 Coverage Results" MODIFIED="1658581542404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+    <SUITE FILE_PATH="coverage/Project$4_Change_Hostname.coverage" NAME="4.Change-Hostname Coverage Results" MODIFIED="1658756060848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevNet/Switching" />
+    <SUITE FILE_PATH="coverage/Project$CPU_Usage.coverage" NAME="CPU_Usage Coverage Results" MODIFIED="1658321762656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$MSG_Box.coverage" NAME="MSG_Box Coverage Results" MODIFIED="1658324375687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$4_Dropdown.coverage" NAME="4.Dropdown Coverage Results" MODIFIED="1657546389526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy" />
+    <SUITE FILE_PATH="coverage/Project$Disable_CDROM.coverage" NAME="Disable_CDROM Coverage Results" MODIFIED="1657977597474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$Creat_Form.coverage" NAME="Creat_Form Coverage Results" MODIFIED="1656768811107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Python-GUI" />
+    <SUITE FILE_PATH="coverage/Project$1_Label__2_.coverage" NAME="1.Label (2) Coverage Results" MODIFIED="1657547174675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kivy/Package" />
+    <SUITE FILE_PATH="coverage/Project$Enable_USB.coverage" NAME="Enable-USB Coverage Results" MODIFIED="1657977016645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/VIRUS/Virus" />
+    <SUITE FILE_PATH="coverage/Project$5.coverage" NAME="5 Coverage Results" MODIFIED="1658584051686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Pentest and Network/Ransomeware" />
+  </component>
+</project>
