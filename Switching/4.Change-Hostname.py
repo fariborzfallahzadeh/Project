@@ -1,6 +1,6 @@
 import telnetlib
 import time
-
+#This is a test
 IP = "192.168.2.30"
 USERNAME = "admin"
 PASSWORD = "cisco"
